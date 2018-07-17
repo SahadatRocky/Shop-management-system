@@ -1,0 +1,5 @@
+D:\C# project\shop_management\shop_management.Core\bin\Debug\shop_management.Core.dll
+D:\C# project\shop_management\shop_management.Core\bin\Debug\shop_management.Core.pdb
+D:\C# project\shop_management\shop_management.Core\obj\Debug\shop_management.Core.csprojResolveAssemblyReference.cache
+D:\C# project\shop_management\shop_management.Core\obj\Debug\shop_management.Core.dll
+D:\C# project\shop_management\shop_management.Core\obj\Debug\shop_management.Core.pdb

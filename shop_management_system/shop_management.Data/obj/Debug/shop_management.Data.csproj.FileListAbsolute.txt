@@ -1,0 +1,8 @@
+D:\C# project\shop_management\shop_management.Data\bin\Debug\shop_management.Data.dll.config
+D:\C# project\shop_management\shop_management.Data\bin\Debug\shop_management.Data.dll
+D:\C# project\shop_management\shop_management.Data\bin\Debug\shop_management.Data.pdb
+D:\C# project\shop_management\shop_management.Data\obj\Debug\shop_management.Data.csprojResolveAssemblyReference.cache
+D:\C# project\shop_management\shop_management.Data\obj\Debug\shop_management.Data.dll
+D:\C# project\shop_management\shop_management.Data\obj\Debug\shop_management.Data.pdb
+D:\C# project\shop_management\shop_management.Data\bin\Debug\shop.mdf
+D:\C# project\shop_management\shop_management.Data\bin\Debug\shop_log.ldf
